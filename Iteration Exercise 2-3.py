@@ -1,5 +1,5 @@
 #Alexander Allan
-#21/10/2014
+#29/10/2014
 #Iteration exercise 2-3
 
 message = input("Please enter a sentence or a word that you want to be printed in reverse order: ")

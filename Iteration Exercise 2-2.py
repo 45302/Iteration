@@ -1,5 +1,5 @@
 #Alexander Allan
-#21/10/2014
+#29/10/2014
 #Iteration exercise 2-2
 
 message = "*"

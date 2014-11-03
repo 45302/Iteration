@@ -1,5 +1,5 @@
 #Alexander Allan
-#21/10/2014
+#29/10/2014
 #Iteration exercise 5
 
 Number = 0

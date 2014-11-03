@@ -1,5 +1,5 @@
 #Alexander Allan
-#16/10/2014
+#29/10/2014
 #Iteration Exercise 1-3
 
 AddedNumber = 0
